@@ -1,0 +1,45 @@
+div{
+    background-color: white;
+    padding: 30px;
+    margin: 100px;
+    text-align: center;
+    text-transform: none;
+    width: 400px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top:100px ;
+}
+
+body{background-color: blue;}
+
+.Words{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: x-large;
+    font-weight: 500;
+    margin-top: auto;}
+
+.input{
+    padding: 5px;
+    margin: 10px;
+    border: 10px;
+    background-color: whitesmoke;}
+
+
+.value{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    background-color: blue;
+    padding: 8px;
+    width: 60px;
+
+}
+
+.Internal{
+    text-align: left;
+}
+
+
+    
+
+
+    
+    

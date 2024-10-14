@@ -1,0 +1,22 @@
+h1{
+    color: blue;
+}
+tr th{
+    color:white;
+    background-color: blue;
+}
+
+tbody{
+    color: black;
+    font-style: italic;
+    column-rule-color: blue;
+}
+.span{
+    color: blue;
+    font-style: italic;
+}
+.ink:hover{
+    color: red;
+    font-size: larger;
+    
+}

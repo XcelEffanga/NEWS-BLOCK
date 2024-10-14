@@ -1,0 +1,62 @@
+
+.Profile-St {
+    /* display: flex; */
+    justify-content: space-around;
+    padding: 40px;
+    background-color: orange;
+}
+
+
+.Profile-St-Cards {
+    background-color:  #006d6a; 
+    width: 300px;
+    padding: 30px;
+    border-radius: 10px;
+    text-align: center;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+}
+.Profile-St h2{
+font-size: xx-large;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.Info {
+        font-size: 16px;
+        line-height: 2.2;
+        margin-bottom: 40px;
+        color: white;
+}
+
+.Pass{
+    padding: 5px;
+    width: 180px;
+    align-self: center;
+    height: 180px;
+    border-color: #fff;
+    border: orange;
+    border-radius: 5px;
+    background-color: white;
+
+
+}
+.Login {
+    text-decoration: none;
+    color:black;
+    background-color: white;
+    padding: 10px 100px;
+    border-radius: 50px;
+    font-weight: bold;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.learn-more:hover {
+    background-color: rgba(255, 255, 255, 0.8);
+    color: #000;
+}
+
+
+

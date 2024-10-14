@@ -1,0 +1,44 @@
+body{color: white;}
+[required] {
+    color: red;}
+body{background-color: rgb(68, 42, 42);
+}
+.ink:active{
+    color: yellow;
+    font-size:alicebluelarger;
+}
+
+s
+.text-box{
+    color: white;
+}
+div{
+    padding: 30px;
+    margin: 25px;
+    border: 2px solid blue;
+    background-color: black;
+    font-style: normal;
+    font-size: 20px;
+    width: 10;
+    font-family: 'Times New Roman', Times, serif
+      
+}
+div p{
+    color: blueviolet;
+    padding: 4em;
+    margin: 50px;
+    border: 2px;
+    font-size: x-large;
+    width: 50%;
+    background-color: rgb(148, 255, 127);
+
+}
+div fieldset{
+    color: blueviolet;
+    padding: 4em;
+    margin: 50px;
+    border: 2px;
+    font-size: x-large;
+    width: 50%;
+    background-color: rgb(148, 255, 127);
+}

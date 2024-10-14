@@ -1,0 +1,56 @@
+
+body{
+    background-color: white;
+}
+ * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: 'Arial', sans-serif;
+ }
+
+ .Hydrogen-navPro{
+    background-color: aliceblue;
+    position:absolute;
+    width: 100%;
+    padding: 20px 0px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    z-index: 1;
+
+ }
+
+ .Hydrogen-navPro .container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 90%;
+    margin: auto 0;
+
+ }
+
+ .Hydrogen-navPro .logo img{
+    max-width: 200px;
+
+ }
+
+ .Hydrogen-links{
+    list-style: none;
+    display: flex;
+
+ }
+
+ .Hydrogen-links li{
+margin-right: 20px;
+ }
+ 
+ .Hydrogen-links a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    transition: color 0.3s ease;
+    
+ }
+
+ 
